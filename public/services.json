@@ -1,0 +1,63 @@
+[
+        {
+              
+                "serviceTitle": "Sajek Vallely Tour",
+                "location": "Sajek Valley (Rangamati), Sajek, Bangladesh",
+                "details": "Sajek valley is 2000 feet above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati. The name of Sajek Valley came from Sajek River that originates from Karnafuli river. Sajek river is working as a border between Bangladesh and India. Sajek valley resorts are made on the side of the hill to provide the unique experience of tribal lifestyle. ",
+                "time" : "2 days 3 Nights",
+                "cost" : "30000",
+                "img": "https://i.ibb.co/8DMV0P8/sajek.jpg"
+                
+                 },
+        {
+               
+                "serviceTitle": "Promodini Boat life",
+                "location": "Kaptai Lake, Rangamati, Bangladesh",
+                "details": "Promodini Boat Life introduces you to a luxurious private house boating experience on breathtaking Kaptai Lake for the first time in Rangamati. Our luxurious houseboat has an air-conditioning facility, a very high standard toilet and shower room, 3 double beds, and a spacious lounge. We are offering some of the most luxurious and premium packages for a group of 4 – 6 people and one of the most delightful and exclusive honeymoon packages for couples.",
+                "time" : "2 days 3 Nights",
+                "cost" : "4450",
+                "img": "https://i.ibb.co/3R3s4mQ/Promodini.jpg"
+                
+                 },
+        {
+                "serviceTitle": "Sundarban Explorations",
+                "location":"Khulna, Bangladesh",
+                "details": "Sundarban is the only mangrove habitat in the world for Royal Bengal Tigers. Considering the great value of Sundarbans, it has become now part of the world heritage area. Therefore, the forest is equally important to nature-loving tourists. In addition, it’s being important to naturalists, ecologists, biologists, and scientific researchers as well. King Cobra, World’s longest venomous snake is also found in the jungles of Sundarbans. Shikra birds, spotted deer, and Lesser Adjutants are a few of the animals living in this enchanting forest. ",
+                "time" : "2 days 3 Nights",
+                "cost" : "14450",
+                "img": "https://i.ibb.co/znGSPJ9/sundorbon.jpg"
+                
+                 },
+        {
+                "serviceTitle": "Bandarban Exploration",
+                "location":"Bandarban, Bangladesh",
+                "details": "Bandarban Hill District is blissed with beauties & culture. You’ll find great mountain views in Bandarban. It treks through virgin forests and chance to meet more than 15 tribes. Bandarban town lies on the Sangu River, 92km from Chittagong. The river is the center of local life: epically long bamboo rafts, steered by a solitary boatman. We are offering you a long adventurous tour into the wild Bandarban.",
+                "time" : "2 days 3 Nights",
+                "cost" : "12450",
+                "img": "https://i.ibb.co/D86qjrn/bandarban.jpg"
+                
+                 },
+        {
+                
+                "serviceTitle": "Tanguar Hoar Avijatrik ",
+                "location": "Shabbari Ghat, Sunamganj",
+                "details": "Tanguar haor is a unique wetland ecosystem of national importance as it offers a combined view of submerged forest view, river view, and hill views. The Government is committed to preserving its natural resources and has taken several steps for the protection of this wetland as it was once subjected to over-exploitation of its natural resources. But now it has recovered its glory and offers a unique lifetime experience.",
+                "time" : "2 days 3 Nights",
+                "cost" : "5450",
+                "img": "https://i.ibb.co/j4yZkfQ/Watch-Tower.jpg"
+                
+                 }
+                 ,
+        {
+             
+                "serviceTitle": "Rajshahi City Tour",
+                "location": "Rajshahi, Bangladesh",
+                "details": "If you are a history lover; a thousand years old real stories fascinate you, this experience is designed exactly for you. Bangladesh holds the exciting stories of this Indian continent which will surely make travelers realize how to enrich the culture and civilization was back then! Let’s look into the stories you will experience in this tour.",
+                "time" : "2 days 3 Nights",
+                "cost" : "5400",
+                "img": "https://i.ibb.co/PGjKPHm/pancharatna-shiva-mandir.jpg"
+                
+                 }
+
+	
+]

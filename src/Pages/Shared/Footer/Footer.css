@@ -1,0 +1,10 @@
+.footer-container a {
+  background: none !important;
+  border: none;
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+}
+.footer-container {
+  overflow-x: hidden;
+}

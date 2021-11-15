@@ -1,0 +1,13 @@
+.booking-information form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.booking-information form input,
+textarea {
+  width: 80%;
+  margin: 10px;
+  padding: 10px;
+}
